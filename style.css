@@ -1,0 +1,42 @@
+
+
+html {
+    max-width: 1024px;
+    text-align: center;
+    background-color: #B0E0E6;
+    font-family: 'Turret Road', cursive;
+}
+ ul {
+ 	list-style: none;
+ }
+ img {
+ 	width: 50%;
+ 	
+ 	
+ }
+ nav ul {
+ 	border: 1px solid #e7e7e7;
+ 	background-color: #E0FFFF;
+ 	padding: 40px;
+
+ }
+ nav ul li {
+  display: inline;
+  color: white;
+  margin: 10px;
+  line-height: 1.8;
+
+}
+nav ul li a {
+	text-decoration: none;
+}
+
+a {
+	color: black;
+
+}
+footer {
+	background-color: #E0FFFF;
+}
+
+
